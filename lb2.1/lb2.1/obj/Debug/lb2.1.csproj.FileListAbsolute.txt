@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\навчання\OOn\lb2.1\lb2.1\bin\Debug\lb2.1.exe.config
+C:\Users\Admin\Desktop\навчання\OOn\lb2.1\lb2.1\bin\Debug\lb2.1.exe
+C:\Users\Admin\Desktop\навчання\OOn\lb2.1\lb2.1\bin\Debug\lb2.1.pdb
+C:\Users\Admin\Desktop\навчання\OOn\lb2.1\lb2.1\obj\Debug\lb2.1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\навчання\OOn\lb2.1\lb2.1\obj\Debug\lb2.1.exe
+C:\Users\Admin\Desktop\навчання\OOn\lb2.1\lb2.1\obj\Debug\lb2.1.pdb
