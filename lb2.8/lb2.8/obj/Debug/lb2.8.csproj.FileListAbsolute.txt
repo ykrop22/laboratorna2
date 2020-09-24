@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\навчання\OOn\lb2.8\lb2.8\bin\Debug\lb2.8.exe.config
+C:\Users\Admin\Desktop\навчання\OOn\lb2.8\lb2.8\bin\Debug\lb2.8.exe
+C:\Users\Admin\Desktop\навчання\OOn\lb2.8\lb2.8\bin\Debug\lb2.8.pdb
+C:\Users\Admin\Desktop\навчання\OOn\lb2.8\lb2.8\obj\Debug\lb2.8.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\навчання\OOn\lb2.8\lb2.8\obj\Debug\lb2.8.exe
+C:\Users\Admin\Desktop\навчання\OOn\lb2.8\lb2.8\obj\Debug\lb2.8.pdb
